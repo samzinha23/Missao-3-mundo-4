@@ -8,7 +8,7 @@ Faculdade Estácio - Polo Castelo - Belo Horizonte - MG.
  
 Curso: Desenvolvimento Full Stack.
  
-Disciplina: Nível 2:  Lidando com sensores em dispositivos móveis.
+Disciplina: Nível 3:  Lidando com sensores em dispositivos móveis.
  
 Número da Turma: 2025.1
  
